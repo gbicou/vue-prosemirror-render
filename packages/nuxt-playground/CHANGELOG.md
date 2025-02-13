@@ -1,5 +1,18 @@
 # @bicou/prosemirror-render-nuxt-playground
 
+## 0.0.13
+
+### Patch Changes
+
+- [#383](https://github.com/gbicou/prosemirror-render/pull/383) [`f84000b`](https://github.com/gbicou/prosemirror-render/commit/f84000b5ca84a4b171addce48b1f0b9e5ab31615) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `eslint` to `9.20.1`.
+
+- [#375](https://github.com/gbicou/prosemirror-render/pull/375) [`27b0704`](https://github.com/gbicou/prosemirror-render/commit/27b070418f7003048c74a210ad8331b2fd030db1) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `eslint` to `9.20.0`.
+
+- [#371](https://github.com/gbicou/prosemirror-render/pull/371) [`95799f4`](https://github.com/gbicou/prosemirror-render/commit/95799f44e982c82e34b3b457126bbc68e1b1b0ca) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `@nuxt/eslint` to `1.0.1`.
+
+- Updated dependencies [[`f84000b`](https://github.com/gbicou/prosemirror-render/commit/f84000b5ca84a4b171addce48b1f0b9e5ab31615), [`27b0704`](https://github.com/gbicou/prosemirror-render/commit/27b070418f7003048c74a210ad8331b2fd030db1), [`95799f4`](https://github.com/gbicou/prosemirror-render/commit/95799f44e982c82e34b3b457126bbc68e1b1b0ca)]:
+  - @bicou/prosemirror-render-nuxt@0.0.13
+
 ## 0.0.12
 
 ### Patch Changes
